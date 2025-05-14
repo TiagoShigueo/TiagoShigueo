@@ -7,7 +7,8 @@ Atualmente estou explorando duas áreas que me encantam: **Enenharia de software
 
 ## Experiência
 
-No momento, tenho focado meus estudos e projetos principalmente em **Java com Spring Boot**, **Next.js (React)** e **Python**, utilizando boas práticas de desenvolvimento, versionamento com GitHub e conteinerização com Docker. Também tenho interesse em arquitetura de microsserviços, APIs REST e análise de dados com Python.
+No momento, tenho focado meus estudos e projetos principalmente em **Java com Spring Boot**, **Next.js (React)** e **Python**, utilizando boas práticas de desenvolvimento, versionamento com GitHub e conteinerização com Docker. </br>
+Também tenho interesse em arquitetura de microsserviços, APIs REST e análise de dados com Python.
 
 ## Tecnologias enenharia de software
 
@@ -23,7 +24,7 @@ No momento, tenho focado meus estudos e projetos principalmente em **Java com Sp
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)](#)
 
-## Tecnollogias análise de dados
+## Tecnologias análise de dados
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](#)
